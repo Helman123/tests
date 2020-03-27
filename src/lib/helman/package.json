@@ -1,0 +1,14 @@
+{
+  "name": "helman",
+  "version": "1.0.0",
+  "description": "测试上传到npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "helman"
+  ],
+  "author": "154545565885@qq.com",
+  "license": "ISC"
+}
